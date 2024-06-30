@@ -1,5 +1,3 @@
-Got it! Here's the updated profile content reflecting your expertise:
-
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
@@ -16,6 +14,7 @@ Got it! Here's the updated profile content reflecting your expertise:
 
 - 🏢 I'm a Computer Science student at Ain Shams University
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+
 ### Connect with Me:
 
 <a href="https://www.linkedin.com/in/zeina-wady-356b99264/" target="_blank">
@@ -28,8 +27,10 @@ Got it! Here's the updated profile content reflecting your expertise:
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeinawady&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeinawady&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="most used languages" />
+
 <br>
+
 <a href="https://komarev.com/ghpvc/?username=zeinawady&style=for-the-badge">
   <img src="https://komarev.com/ghpvc/?username=zeinawady&style=for-the-badge">
 </a>
