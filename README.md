@@ -36,8 +36,3 @@
 
 <br>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=zeinawady&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=zeinawady&style=for-the-badge" alt="Profile Views"/>
-  </a>
-</p>
